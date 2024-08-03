@@ -40,7 +40,7 @@ organizations:
   - name: University of Cambridge
 role: Departmental Supervisor for Physics
 highlight_name: true
-title: Mingshau Liu
+title: Ming-Shau Liu
 first_name: Ming
 last_name: Liu
 email: ""
