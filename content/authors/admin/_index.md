@@ -37,7 +37,8 @@ education:
       year: 2019 - 2022
 superuser: true
 organizations:
-  - name: Departmental Supervisor for Physics, University of Cambridge
+  - name: University of Cambridge
+role: Departmental Supervisor for Physics
 highlight_name: true
 title: Mingshau Liu
 first_name: Ming
