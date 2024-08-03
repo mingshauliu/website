@@ -2,11 +2,11 @@ name = "ming-sans-serif"
 
 # CYBERPUNK
 # Optional Google font URL
-google_fonts = "family=Figtree:wght@300"
+google_fonts = "family=Figtree:wght@300&family=Palanquin:wght@500"
 
 # Font families
-heading_font = "Figtree"
+heading_font = "Palanquin"
 body_font = "Figtree"
-nav_font = "Figtree"
+nav_font = "Palanquin"
 mono_font = "Figtree"
 # --------------------
