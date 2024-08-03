@@ -11,7 +11,7 @@ name = "Mary_Night"
 
   background = "#0E160E"
   home_section_odd = "#0E160E"
-  home_section_even = "#1B341B"
+  home_section_even = "#242B24"
 
   link = "#7EA07F"
   link_hover = "#A0957E"
