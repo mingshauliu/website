@@ -14,7 +14,7 @@ authors:
 author_notes:
 publication: ""
 featured: false
-date: 2020-9-24T16:02:38.971Z
+date: 2020-09-24
 title: Version 0: An Educational Package for Helium Atom Scattering Studies
 image:
   filename: null
