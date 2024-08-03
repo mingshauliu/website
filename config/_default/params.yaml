@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© Mary Letey, {year}. All content is mine.'
+    notice: '© Ming-Shau Liu, {year}. All content is mine.'
     # license:
     #   enable: true
     #   allow_derivatives: false
