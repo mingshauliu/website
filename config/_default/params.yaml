@@ -8,7 +8,7 @@
 appearance:
   theme_day: ming_green_light
   theme_night: ming_green_dark
-  font: mary-serif
+  font: ming-sans-serif
   font_size: S
 
 # SEO
