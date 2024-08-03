@@ -2,24 +2,19 @@
 name = "Mary_Night"
 
 [dark]
-  # Primary = standard buttons (i.e. slides, etc) + backlayer color (when scrolling)
-  primary = "#6166DC" 
+  primary = "#7EA07F" #"#757179" 
 
-  # Menu
-  menu_primary = "#6166DC" # Upper header block color
-  menu_text = "#FFFFFF" 
-  menu_text_active = "#FAFAFA"
-  menu_title = "#FFFFFF"
+  menu_primary = "#7EA07F" # Upper header block color
+  menu_text = "#000000" 
+  menu_text_active = "#223F22"
+  menu_title = "#000000"
 
-  # Backgrounds
-  background = "#050505"
-  home_section_odd = "#050505"
-  home_section_even = "#121311"
+  background = "#0E160E"
+  home_section_odd = "#0E160E"
+  home_section_even = "#1B341B"
 
-  # link color = text links + buttons on main page
-  link = "#CCCEEE"
-  link_hover = "#C9D8EB"
-  #link_decoration = "underline"
+  link = "#7EA07F"
+  link_hover = "#A0957E"
   
 # [dark]
 #   # Primary = standard buttons (i.e. slides, etc) + backlayer color (when scrolling)
