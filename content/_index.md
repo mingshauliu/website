@@ -1,13 +1,13 @@
 ---
-title: Mary Letey
-date: 2022-10-24
+title: Ming-Shau Liu
+date: 2024-08-01
 type: landing
 
 sections:
   - block: about.biography
     id: about
     content:
-      title: Hello There!
+      title: What's up bruther!
       username: admin
 
   - block: collection
