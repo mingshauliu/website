@@ -1,0 +1,12 @@
+name = "ming-sans-serif"
+
+# CYBERPUNK
+# Optional Google font URL
+google_fonts = "family=Figtree:wght@300"
+
+# Font families
+heading_font = "Figtree"
+body_font = "Figtree"
+nav_font = "Figtree"
+mono_font = "Figtree"
+# --------------------
