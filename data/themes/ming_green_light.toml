@@ -1,0 +1,17 @@
+# Theme metadata
+name = "ming_green_light"
+
+[light]
+  primary = "#223F22" #"#757179" 
+
+  menu_primary = "#7EA07F" # Upper header block color
+  menu_text = "#000000" 
+  menu_text_active = "#223F22"
+  menu_title = "#000000"
+
+  background = "#FAFAFA"
+  home_section_odd = "#FAFAFA"
+  home_section_even = "#EDECEE"
+
+  link = "#497749"
+  link_hover = "#776949"
