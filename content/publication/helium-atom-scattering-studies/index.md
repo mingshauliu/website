@@ -15,7 +15,7 @@ author_notes:
 publication: ""
 featured: false
 date: 2020-09-24T16:02:38.971Z
-title: `Version 0`: An Educational Package for Helium Atom Scattering Studies
+title: `Version 0': An Educational Package for Helium Atom Scattering Studies
 image:
   filename: null
   focal_point: Smart
