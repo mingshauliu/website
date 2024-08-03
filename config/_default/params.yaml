@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: mary_day
-  theme_night: mary_night
+  theme_day: ming_green_light
+  theme_night: ming_green_dark
   font: mary-serif
   font_size: S
 
