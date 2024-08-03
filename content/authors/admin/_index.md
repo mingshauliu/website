@@ -1,5 +1,5 @@
 ---
-avatar_filename: avatar.jpg
+avatar_filename: avatar.png
 bio: Physics student interested flavour.
 logo: logo.png
 social:
