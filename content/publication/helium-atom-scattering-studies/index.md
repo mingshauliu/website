@@ -3,7 +3,7 @@ abstract: Helium atom scattering studies have the potential for making numerous 
 draft: false
 url_pdf: https://arxiv.org/pdf/2009.11614
 publication_types:
-  - "7"
+  - "8"
 authors:
   - Ethan L. Arnold
   - admin
