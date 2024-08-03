@@ -1,6 +1,6 @@
 ---
 avatar_filename: avatar.png
-bio: Physics student interested flavour.
+bio: Physics student interested in flavour.
 logo: logo.png
 social:
   - icon: paper-plane
