@@ -13,5 +13,5 @@ name = "ming_green_dark"
   home_section_odd = "#0E160E"
   home_section_even = "#0E160E"#"#242B24"
 
-  link = "#7EA07F"
-  link_hover = "#A0957E"
+  link = "#98CD9A"
+  link_hover = "#CEBC98"
