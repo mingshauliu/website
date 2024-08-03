@@ -3,7 +3,7 @@ abstract: We investigate the shallow flow of viscous fluid into and out of a cha
 draft: false
 url_pdf: https://www.cambridge.org/core/services/aop-cambridge-core/content/view/5432FA07A320FA625FAA94C8C4E51BB5/S0022112023009114a.pdf/shallow-current-of-viscous-fluid-flowing-between-diverging-or-converging-walls.pdf
 publication_types:
-  - "8"
+  - "2"
 authors:
   - admin
   - Herbert E. Huppert
