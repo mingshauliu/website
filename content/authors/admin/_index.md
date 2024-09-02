@@ -11,7 +11,7 @@ social:
     link: https://scholar.google.com/citations?user=PHQUNHkAAAAJ&hl=en
   - icon: cv
     icon_pack: ai
-    link: uploads/mary-letey-june-2024.pdf
+    link: uploads/msl-cv-sep-2024.pdf
   - icon: 🦦
     icon_pack: emoji
   - icon: 🦦
