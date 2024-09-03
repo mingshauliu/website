@@ -1,6 +1,6 @@
 ---
 avatar_filename: avatar.png
-bio: Physics student interested in flavour.
+bio: Physics student interested in neutrinos and Dark Matter.
 logo: logo.png
 social:
   - icon: paper-plane
