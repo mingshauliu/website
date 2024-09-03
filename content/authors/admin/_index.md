@@ -45,5 +45,5 @@ first_name: Ming
 last_name: Liu
 email: ""
 ---
-I also do maths sometimes. I code okay.
+I also do maths sometimes. I code okay. I really like clouds and penguins. 
 {style="text-align: justify;"}
