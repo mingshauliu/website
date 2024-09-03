@@ -45,5 +45,5 @@ first_name: Ming
 last_name: Liu
 email: ""
 ---
-I'm Ming. I do physics. 
+ 
 {style="text-align: justify;"}
