@@ -7,7 +7,7 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: What's up bruther!
+      title: I'm Ming. I do Physics.
       username: admin
 
   - block: collection
