@@ -12,33 +12,22 @@ social:
   - icon: cv
     icon_pack: ai
     link: uploads/msl-cv-sep-2024.pdf
-  - icon: 🦦
-    icon_pack: emoji
-  - icon: 🦦
-    icon_pack: emoji
-  - icon: 🦦
-    icon_pack: emoji
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/ming-shau-liu-4814451a4/
   - icon: github
     icon_pack: fab
     link: https://github.com/mingshauliu
-  - icon: square-twitter
-    icon_pack: fab
-    link: https://twitter.com/mingshauliu
+
 education:
   courses:
     - course: MSc in Physics
-      institution: University of Cambridge, Homerton College
+      institution: University of Cambridge
       year: 2022 - 2023
-    - course: BA in Physics
-      institution: University of Cambridge, Homerton College
+    - course: BA in Mathematics with Physics
+      institution: University of Cambridge
       year: 2019 - 2022
 superuser: true
 organizations:
   - name: University of Cambridge
-role: Departmental Supervisor for Physics
+role: College Supervisor, Cavendish Laboratory
 highlight_name: true
 title: Ming-Shau Liu
 first_name: Ming
