@@ -11,7 +11,7 @@ social:
     link: https://scholar.google.com/citations?user=PHQUNHkAAAAJ&hl=en
   - icon: cv
     icon_pack: ai
-    link: uploads/msl-cv-sep-2024.pdf
+    link: uploads/msl-cv-dec-2024.pdf
   - icon: github
     icon_pack: fab
     link: https://github.com/mingshauliu
